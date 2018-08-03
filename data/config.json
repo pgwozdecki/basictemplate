@@ -1,0 +1,9 @@
+{
+	"test":{
+			"appUrl": "http://automationpractice.com/"
+		},
+		
+	"dev":{
+			"appUrl": "http://automationpractice.com/"
+		}
+}

@@ -1,0 +1,8 @@
+.project
+.tern-project
+/node_modules/
+/reports/
+package_lock
+.idea
+.reports
+.results
